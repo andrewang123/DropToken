@@ -1,6 +1,6 @@
 # IntelliJ
 /.idea/*
-/All-Write.iml
+/DropToken.iml
 
 # Output
 out/
