@@ -1,6 +1,6 @@
 # IntelliJ
 /.idea/*
-/DropToken.iml
+/DropToken.iml/
 
 # Output
 out/
